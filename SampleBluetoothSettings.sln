@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBluetoothSettings.Android", "SampleBluetoothSettings.Android\SampleBluetoothSettings.Android.csproj", "{32EF4B8F-9A5E-4F43-901A-C0239A9EDA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBluetoothSettings", "SampleBluetoothSettings\SampleBluetoothSettings.csproj", "{75953189-0F19-49CF-A91D-F079E72711F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EF4B8F-9A5E-4F43-901A-C0239A9EDA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EF4B8F-9A5E-4F43-901A-C0239A9EDA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EF4B8F-9A5E-4F43-901A-C0239A9EDA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EF4B8F-9A5E-4F43-901A-C0239A9EDA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75953189-0F19-49CF-A91D-F079E72711F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75953189-0F19-49CF-A91D-F079E72711F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75953189-0F19-49CF-A91D-F079E72711F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75953189-0F19-49CF-A91D-F079E72711F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
